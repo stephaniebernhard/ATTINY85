@@ -1,6 +1,6 @@
 # ATTINY85
 
-## Quick Guide
+## Quick Reference
 1. Download and install IDE: https://www.arduino.cc/en/software
 2. Add Additional boards manager URL under Preferences: http://digistump.com/package_digistump_index.json
 3. Under Tools > Board > Boards Manager, search for "digistump" and install "Digistump AVR Boards"
