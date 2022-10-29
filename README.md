@@ -6,3 +6,6 @@
 3. Under Tools > Board > Boards Manager, search for "digistump" and install "Digistump AVR Boards"
 4. Install Arduino Drivers: https://github.com/digistump/DigistumpArduino/releases
 5. Upload .ino File to Microchip
+
+## helloworld.ino
+Opens Notepad via cmd on Windows and puts "Hello World"
